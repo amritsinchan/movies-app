@@ -1,0 +1,1 @@
+Created a Netflix style movie app and used a real API (OMDb API using Postman) to search for movies as we type.Functionality to add movies to and remove them from our favourites. App has the ability to save our favourites to local storage to they appear when the app refreshes.
